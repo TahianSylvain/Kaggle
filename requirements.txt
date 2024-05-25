@@ -1,0 +1,14 @@
+ta
+numpy
+scipy
+
+pandas
+kaggle
+seaborn
+sklearn
+jupyter
+holoview
+
+matplotlib
+
+tensorflow
